@@ -1,6 +1,6 @@
 #require 'rails_helper'
 
-#capybara element not recognizing links. 
+#capybara element not recognizing links.
 
 #RSpec.describe "Products", type: :feature do
 #  before do
